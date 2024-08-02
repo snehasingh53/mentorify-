@@ -1,0 +1,46 @@
+
+header {
+    background-color:#646cff; 
+    padding: 1rem 0; 
+  }
+  
+  
+  .container {
+    display: flex; 
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 2rem; 
+  }
+  
+ 
+  .logo-brand a {
+    color: #fff; 
+    text-decoration: none;
+    font-size: 2rem; 
+  }
+  
+ 
+  nav ul {
+    display: flex; 
+    list-style: none;
+    padding: 0; 
+    margin: 0; 
+  }
+  
+  
+  nav ul li {
+    margin: 0 3.5rem;
+  }
+  
+
+  nav ul li a {
+    color: #fff; 
+    text-decoration: none; 
+    font-size: 1.6rem;
+    transition: color 0.3s ease; 
+  }
+  
+  nav ul li a:hover {
+    color: #aaa; 
+  }
+  
